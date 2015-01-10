@@ -25,5 +25,5 @@ are no schools within a reasonable distance from where I live. When I
 discovered that OSU had this program it looked like a good fit for me.
 
                          Programming Background
-
-
+My first programming experience was with basic in a TRS-80. I guess I'm 
+dating myself here. 
