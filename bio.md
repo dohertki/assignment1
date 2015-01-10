@@ -15,8 +15,11 @@ called, is a federally mandated system to improve the safety of trains. Most
 notably, it prevents collisions between locomotives by taking control of a 
 locomotive if it is being operated in an unsafe manner.
 
+During vacations, the family and I like to go camping. We usually plan a
+couple big trips each summer.
+
 I started college originally as a plant science major. I took a number of 
-courses I really didn't need but peaked my interest. I took art classes, 
+courses I really didn't need, but peaked my interest. I took art classes, 
 economics classes, computer science classes, and one electrical engineering 
 class. I ended up settling on a degree to Ag Econ but remained passionate about 
 computers and wizardry that made them work. I thought about pursuing more 
