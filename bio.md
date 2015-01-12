@@ -16,7 +16,8 @@ notably, it prevents collisions between locomotives by taking control of a
 locomotive if it is being operated in an unsafe manner.
 
 During vacations, the family and I like to go camping. We usually plan a
-couple big trips each summer.
+couple big trips each summer. Typically we like to camp at lakes but this
+year we are planning on camping on the Oregon coast.
 
 I started college originally as a plant science major. I took a number of 
 courses I really didn't need, but peaked my interest. I took art classes, 
